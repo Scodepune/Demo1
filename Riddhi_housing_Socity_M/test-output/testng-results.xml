@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T15:33:20 IST" name="Test Suite" finished-at="2023-07-20T15:34:01 IST" duration-ms="40449">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T15:33:20 IST" name="TestScript" finished-at="2023-07-20T15:34:01 IST" duration-ms="40449">
+      <class name="TestScript.Tc_AddContent">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScript.Tc_AddContent@5562c41e]" started-at="2023-07-20T15:33:20 IST" name="setup" finished-at="2023-07-20T15:33:48 IST" duration-ms="27607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="content()[pri:0, instance:TestScript.Tc_AddContent@5562c41e]" started-at="2023-07-20T15:33:48 IST" name="content" finished-at="2023-07-20T15:33:56 IST" duration-ms="8257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- content -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScript.Tc_AddContent@5562c41e]" started-at="2023-07-20T15:33:56 IST" name="tearDown" finished-at="2023-07-20T15:34:01 IST" duration-ms="4515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScript.Tc_AddContent -->
+    </test> <!-- TestScript -->
+  </suite> <!-- Test Suite -->
+</testng-results>

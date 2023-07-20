@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+
+    <test name="TestScript">
+        <classes>
+            <class name="TestScript.Tc_AddContent" />
+        </classes>
+    </test>
+    <!-- You can define more tests within the suite if needed -->
+
+</suite>
+ 
